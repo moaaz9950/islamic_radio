@@ -1025,6 +1025,60 @@
       "name": "أحمد طالب بن حميد",
       "url": "https://backup.qurango.net/radio/a_binhameed",
       "recent_date": "2025-07-20 19:54:30"
-    }
-  ]
+    },
+    {
+      "id": 109076,
+      "name": "تفسير غريب القرآن",
+      "url": "https://backup.qurango.net/radio/gareeb-quran",
+      "recent_date": "2025-09-06 11:00:48"
+   },
+  {
+    "id": 109077,
+    "name": "إذاعة الله أكبر",
+    "url": "http://66.45.232.132:9996/stream?type=http&nocache=248736",
+    "recent_date": "2025-09-12 12:00:00"
+  },
+  {
+    "id": 109078,
+    "name": "القرآن للقلب   غذاء القلب والروح",
+    "url": "https://edge.mixlr.com/channel/rwumx",
+    "recent_date": "2025-09-12 12:00:00"
+  },
+  {
+    "id": 109079,
+    "name": "قناة عمر عبد الكافي",
+    "url": "https://islamicbulletin.site:8068/stream",
+    "recent_date": "2025-09-12 12:00:00"
+  },
+  {
+    "id": 109080,
+    "name": "قناة محمد متولي الشعراوي",
+    "url": "https://islamicbulletin.site:8066/stream",
+    "recent_date": "2025-09-12 12:00:00"
+  },
+  {
+    "id": 109081,
+    "name": "إذاعة نهر النيل",
+    "url": "https://islamicbulletin.site:8064/stream",
+    "recent_date": "2025-09-12 12:00:00"
+  },
+  {
+    "id": 109082,
+    "name": "قناة محمد راتب النابلسي",
+    "url": "https://islamicbulletin.site:8060/stream",
+    "recent_date": "2025-09-12 12:00:00"
+  },
+  {
+    "id": 109083,
+    "name": "عبد الحميد كشك",
+    "url": "https://islamicbulletin.site:8062/stream",
+    "recent_date": "2025-09-12 12:00:00"
+  },
+  {
+    "id": 109084,
+    "name": "رحمة للعالمين",
+    "url": "https://islamicbulletin.site:8054/stream",
+    "recent_date": "2025-09-12 12:00:00"
+  }
+]
 }
