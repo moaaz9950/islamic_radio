@@ -1402,6 +1402,17 @@
       "type": "Quran Recitation"
     },
     {
+      },
+    {
+      "id": 200,
+      "name": "إذاعة القرآن الكريم من القاهرة",
+      "url": "https://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eCxOS4PStqG9DuEjAr2ZjZQtvS3d4y9r0cvRhvS17SGN/a_7a4vuubc6mo8.m3u8",
+      "recent_date": "2026-08-3 22:04:04",
+      "country": "مصر",
+      "type": "Quran Recitation"
+        "image": "https://github.com/moaaz9950/islamic_radio/blob/main/photo%20qaria/2026-08-31_12-14-45_Lumina.png?raw=true"
+    },
+    {
       "id": 109083,
       "name": "الشمائل المحمدية",
       "url": "https://backup.qurango.net/radio/shmaeel",
